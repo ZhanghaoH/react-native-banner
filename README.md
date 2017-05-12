@@ -8,6 +8,7 @@ npm install react-native-banner --save
 
 ```
 ##  Properties
+
 name | description
 banners | PropTypes.**array**.isRequired,including all the resources like images and title that the banner need
 defaultIndex | PropTypes.**num**, the default index that the banner begins
